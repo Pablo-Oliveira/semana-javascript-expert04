@@ -2,7 +2,7 @@
 
 Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.
 
-Marque esse projeto com uma estrela 🌟
+Marque esse projeto com uma estrela 🪄
 
 ## Preview
 
